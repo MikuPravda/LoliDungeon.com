@@ -1,3 +1,1 @@
-# LoliDungeon.com
-for me and fens
-brrrrrrrrrrr
+# first step making a website
